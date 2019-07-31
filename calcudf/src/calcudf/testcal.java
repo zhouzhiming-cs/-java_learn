@@ -9,6 +9,7 @@ public class testcal extends UDF {
 	public int evaluate(String original) {
 
 		 System.out.println("111");
+		 System.out.println("111");		 
          return 0;
     }
 }
